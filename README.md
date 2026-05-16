@@ -1,229 +1,257 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Pushpender%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automator&descAlignY=60&descSize=18&descColor=00d9ff&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d47a1,70:00acc1,100:0a0e1a&height=220&section=header&text=Pushpender%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20CI%2FCD%20%7C%20IaC%20%7C%20Monitoring&descAlignY=62&descSize=16&descColor=80deea&animation=fadeIn"/>
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Automating+AWS+EC2+in+under+3+minutes...;⚙️+Jenkins+%7C+Ansible+%7C+Kubernetes+%7C+Terraform;🐳+Containers+%26+Pods+%7C+Zero+Manual+Steps;☁️+Cloud+Infrastructure+%7C+IaC+%7C+CI%2FCD+Pipelines;🔥+Turning+15-min+tasks+into+3-min+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00B8D9&center=true&vCenter=true&multiline=false&width=750&lines=☁️+Cloud+Infrastructure+Engineer+%7C+AWS+Certified+Learner;⚙️+CI%2FCD+Automation+%7C+Jenkins+%7C+GitHub+Actions;🐳+Container+Orchestration+%7C+Docker+%7C+Kubernetes;📦+Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;📊+Monitoring+%26+Observability+%7C+Prometheus+%7C+Grafana;🔐+Cloud+Security+%7C+IAM+%7C+Least+Privilege+%7C+VPC;🖥️+Linux+Admin+%7C+Bash+Scripting+%7C+Shell+Automation)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpender-kumar-5280b7226)
+[![Gmail](https://img.shields.io/badge/Email-pushpender7505%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:pushpender7505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PushpenderKumar7505-181717?style=flat-square&logo=github)](https://github.com/PushpenderKumar7505)
+[![Profile Views](https://komarev.com/ghpvc/?username=PushpenderKumar7505&color=00b8d9&style=flat-square&label=Profile+Views)](https://github.com/PushpenderKumar7505)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Fresher%20%7C%20Intern%20%7C%20Jr.%20Engineer-brightgreen?style=flat-square)](mailto:pushpender7505@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me
 
-## `$ whoami`
+> *B.Tech CSE graduate (GLA University, 2024) with hands-on experience across the full DevOps lifecycle — from writing Ansible playbooks and Jenkins pipelines to deploying containerised workloads on Kubernetes clusters running on AWS. I don't just learn tools — I build real pipelines with them.*
 
-```bash
-Name     : Pushpender Kumar
-Role     : DevOps Engineer (Fresher / Intern)
-Location : Mathura → Gurugram, India 🇮🇳
-Degree   : B.Tech CSE — GLA University (2024)
-Status   : Actively Seeking Opportunities ✅
-Belief   : "If I do it twice, I'll automate it."
+```yaml
+name        : Pushpender Kumar
+location    : Mathura / Gurugram, India 🇮🇳
+education   : B.Tech CSE — GLA University (2024)
+training    : AWS & DevOps — Croma Campus (Sep 2025 – Mar 2026)
+seeking     : Cloud Engineer | DevOps Engineer | SRE | Platform Engineer | Fresher/Intern
+available   : Immediately ✅
+superpower  : "Reduced EC2 provisioning from 15 minutes → under 3 minutes via Jenkins pipeline"
 ```
 
-<br>
-
-- 🔥 &nbsp;Building **Jenkins + Ansible + K8s** CI/CD pipelines on **AWS**
-- ⚡ &nbsp;Cut EC2 provisioning time: **15 min → under 3 min**
-- 🌱 &nbsp;Levelling up in **Terraform IaC** & advanced **Kubernetes**
-- 🤝 &nbsp;Open to collaborate on **DevOps & Cloud** projects
-- 💬 &nbsp;Ask me about: `Jenkins` `AWS EC2` `Docker` `Kubernetes` `Ansible` `Linux`
-
-<br clear="right"/>
+- 🔧 &nbsp;Hands-on with **Jenkins, Ansible, Docker, Kubernetes, Terraform** — not just theory
+- ☁️ &nbsp;Working knowledge of **AWS EC2, S3, IAM, VPC, CloudWatch** services
+- 📊 &nbsp;Set up **Prometheus + Grafana** monitoring stacks for observability
+- 🔐 &nbsp;Implement **IAM least-privilege** and **SSH key-based auth** as standard practice
+- 🖥️ &nbsp;Daily driver: **Linux (Ubuntu)** with Bash scripting for automation
+- 🤝 &nbsp;Open to collaborate on **Cloud, DevOps, SRE, Platform Engineering** projects
 
 ---
 
-## 🧰 Arsenal
+## 🗺️ Cloud & DevOps Skill Map
+
+```
+                    ┌─────────────────────────────────────────────────────┐
+                    │              PUSHPENDER'S SKILL LANDSCAPE            │
+                    └─────────────────────────────────────────────────────┘
+
+  SOURCE CONTROL          CI/CD PIPELINE         CONFIGURATION MGMT
+  ─────────────          ──────────────          ──────────────────
+  Git  GitHub             Jenkins                Ansible
+  Bitbucket               GitHub Actions         Ansible Playbooks
+  Webhooks                Pipeline Stages        SSH Key Auth
+
+  CONTAINERS              ORCHESTRATION          INFRA AS CODE
+  ──────────              ─────────────          ─────────────
+  Docker                  Kubernetes             Terraform
+  Dockerfile              Pods / Deployments     .tf modules
+  docker-compose          Services / ReplicaSets State Management
+
+  CLOUD (AWS)             MONITORING             OS & SCRIPTING
+  ──────────              ──────────             ──────────────
+  EC2  S3  IAM            Prometheus             Linux (Ubuntu)
+  VPC  CloudWatch         Grafana                Bash / Shell
+  Security Groups         Metrics & Dashboards   Python
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**⚙️ CI/CD & Automation**
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+### CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**☁️ AWS Cloud**
-
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS VPC](https://img.shields.io/badge/AWS_VPC-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-
-**🐳 Containers & Orchestration**
-
+### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**📦 IaC & Monitoring**
-
+### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**🖥️ Scripting & OS**
-
+### OS, Scripting & Version Control
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**🔀 Version Control**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-**🧩 Backend & Database**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects That Actually Ship
+## 🚀 Projects
 
-<details open>
-<summary><b>🔴 Project 1 — Full Stack CI/CD: Jenkins → Ansible → Kubernetes on AWS</b></summary>
-<br>
+### 📌 Project 1 — 3-Tier CI/CD Pipeline: Jenkins + Ansible + Kubernetes on AWS
 
-> *"One GitHub push. Zero manual steps. Kubernetes pod up and running."*
+> *Full automation from GitHub commit to running Kubernetes pod — zero manual steps.*
 
+**Architecture:**
 ```
-GitHub Push ──► Jenkins Pipeline ──► SCP Transfer ──► Ansible SSH ──► K8s Pod ✅
-     │               │                    │                 │               │
-  Webhook        3 Stages            ec2.yml runs      pod.yml runs    ubuntu:latest
-  Trigger    Auto checkout +      EC2 + SG + AMI     Multi-container   Status: Running
-             file transfer         + Keypair          deployment       Confirmed kubectl
+Developer
+    │
+    ▼ git push
+┌─────────────┐      Webhook     ┌──────────────────────────────────┐
+│   GitHub    │ ──────────────► │         Jenkins Pipeline          │
+│  Repository │                  │  Stage 1: Git Checkout           │
+└─────────────┘                  │  Stage 2: SCP → Ansible Server   │
+                                  │  Stage 3: SSH → Run Playbook     │
+                                  └────────────────┬─────────────────┘
+                                                   │
+                          ┌────────────────────────┼────────────────────────┐
+                          ▼                        ▼                        ▼
+                  ┌──────────────┐      ┌──────────────────┐     ┌────────────────┐
+                  │ ec2.yml runs │      │  AWS EC2 Created  │     │  pod.yml runs  │
+                  │ amazon.aws   │      │  SG + AMI + Keys  │     │  K8s Pod UP ✅  │
+                  │ collection   │      │  ap-south-1       │     │  ubuntu:latest │
+                  └──────────────┘      └──────────────────┘     └────────────────┘
 ```
 
-| What I Built | Impact |
-|---|---|
-| 3-stage Jenkins pipeline (Checkout → SCP Transfer → Remote Execute) | **100% automated** end-to-end |
-| Ansible `ec2.yml` using `amazon.aws` collection | EC2 + Security Group + AMI + Keypair via code |
-| Passwordless SSH between Ansible control node & K8s server | `ansible -m ping` → **0 failures** |
-| K8s multi-container pod deployment via remote `pod.yml` trigger | Pods confirmed **Running** state |
-| 3 EC2 instances managed in `ap-south-1` via MobaXterm | Jenkins (t3.micro) · Ansible (t3.micro) · K8s (c7i.flex.large) |
+**Key Achievements:**
+| Metric | Result |
+|--------|--------|
+| Manual steps in deployment | **Zero** |
+| Ansible ping failures | **Zero** |
+| EC2 instances managed | **3** (Jenkins · Ansible · Kubernetes) |
+| Deployment trigger | **Automatic** on every GitHub push |
+| Pod state after pipeline | **Running** ✅ |
 
-**Stack:** `Jenkins` `Ansible` `Kubernetes` `AWS EC2` `GitHub` `SSH` `SCP` `Linux Ubuntu`
-
-</details>
+**Tech:** `Jenkins` `Ansible` `Kubernetes` `AWS EC2` `GitHub Webhooks` `SSH` `SCP` `Linux Ubuntu`
 
 ---
 
-<details open>
-<summary><b>🟡 Project 2 — Automated AWS EC2 Provisioning via Jenkins CI/CD</b></summary>
-<br>
+### 📌 Project 2 — Automated AWS EC2 Provisioning via Jenkins
 
-> *"Manual clicking eliminated. 15 minutes became 3 minutes."*
+> *Eliminated 100% of manual AWS console clicks. Infrastructure on demand in under 3 minutes.*
 
+**How it works:**
 ```
-Code Push ──► Webhook Fires ──► Jenkins Triggers ──► Bash Script Runs ──► EC2 Alive 🟢
-    │               │                 │                     │                   │
-  GitHub      Instant trigger    Parameterized job      AWS API calls      Auditable
-  commit      on every push      version-controlled    IAM least-priv     deployment
+git push ──► GitHub Webhook ──► Jenkins Job ──► Bash Script ──► AWS EC2 Live
+                                     │
+                            Parameterized build:
+                            - Instance type
+                            - Region
+                            - AMI ID
+                            All version-controlled. All auditable.
 ```
 
-| What I Built | Impact |
-|---|---|
-| Parameterized Bash scripts via Jenkins jobs | **Eliminated 100%** of manual console clicks |
-| GitHub Webhooks → event-driven pipeline | Auto-triggers on every push across 2 repos |
-| AWS IAM least-privilege policies on Ubuntu | Cloud security best practices enforced |
-| End-to-end automated pipeline | **15 min → under 3 min** ⚡ provisioning time |
+**Key Achievements:**
+| Metric | Before | After |
+|--------|--------|-------|
+| Provisioning time | 15 minutes | **< 3 minutes** |
+| Manual console steps | Many | **Zero** |
+| Deployment trigger | Manual | **Event-driven (Webhook)** |
+| Access control | Ad-hoc | **IAM least-privilege** |
 
-**Stack:** `Jenkins` `GitHub Webhooks` `AWS EC2` `AWS IAM` `Bash Scripting` `Linux Ubuntu`
-
-</details>
+**Tech:** `Jenkins` `GitHub Webhooks` `AWS EC2` `AWS IAM` `Bash Scripting` `Linux Ubuntu`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=PushpenderKumar7505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PushpenderKumar7505&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=PushpenderKumar7505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PushpenderKumar7505&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=PushpenderKumar7505&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=PushpenderKumar7505&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushpenderKumar7505&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PushpenderKumar7505&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
 </div>
 
 ---
 
 ## 💼 Work Experience
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🏢 Backend Developer Intern — Mentobile Technology
+📅 `Jul 2024 – Oct 2024`
 
-### 🏢 Mentobile Technology
-**Backend Developer Intern**
-`Jul 2024 – Oct 2024`
+- Developed and maintained backend modules using **CodeIgniter PHP MVC** framework
+- Designed **MySQL schemas** and implemented full CRUD operations across multiple modules
+- Managed source code via **Git/GitHub** — branching, pull requests, and code reviews
+- Worked in a live production environment with real deployment cycles
 
-```
-Stack: CodeIgniter PHP · MySQL · Git
-```
-- Built & maintained backend modules with **MVC** framework
-- Designed MySQL schemas + full **CRUD** operations
-- Git branching, PRs & code reviews in team workflow
+### 🏢 Market Research Associate — Precise Research Solution, Gurugram
+📅 `Jan 2025 – Jun 2025`
 
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Precise Research Solution
-**Market Research Associate · Gurugram**
-`Jan 2025 – Jun 2025`
-
-```
-Stack: Data Analysis · Excel · Research
-```
-- Cleaned & analysed structured datasets
-- Produced **decision-support reports** for stakeholders
-- Synthesised multi-source findings for presentations
-
-</td>
-</tr>
-</table>
+- Collected, cleaned, and analysed structured datasets for decision-support reports
+- Synthesised multi-source findings into stakeholder presentations
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Training
 
-```
-🎓  B.Tech in Computer Science & Engineering
-    GLA University, Mathura  ·  Jul 2020 – May 2024  ·  CGPA: 6.83 / 10.0
+| 🎓 | Details |
+|---|---|
+| **B.Tech — Computer Science & Engineering** | GLA University, Mathura · 2020–2024 · CGPA: 6.83/10 |
+| **AWS & DevOps Infrastructure Training** | Croma Campus · Sep 2025 – Mar 2026 |
+| **Web Development Bootcamp** | JOVAC |
+| **Front End Development (HTML & CSS)** | Great Learning |
+| **Course on Computer Concepts (CCC)** | NIELIT |
 
-📜  AWS & DevOps Infrastructure Training — Croma Campus  (Sep 2025 – Mar 2026)
-    ├── Linux Administration · Git & GitHub Workflows
-    ├── Jenkins CI/CD · GitHub Webhooks · Docker · Kubernetes
-    ├── AWS (EC2 · S3 · IAM · VPC · CloudWatch)
-    ├── Terraform (IaC) · Ansible (Config Mgmt)
-    └── Prometheus · Grafana (Monitoring & Observability)
-
-📋  Other Certifications
-    ├── Web Development Bootcamp — JOVAC
-    ├── Front End Development (HTML & CSS) — Great Learning
-    └── Course on Computer Concepts (CCC) — NIELIT
-```
+**Croma Campus Training Covered:**
+`Linux Administration` · `Git & GitHub` · `Jenkins CI/CD` · `GitHub Webhooks` · `Docker` · `AWS (EC2 · S3 · IAM · VPC · CloudWatch)` · `Kubernetes` · `Terraform` · `Ansible` · `Prometheus` · `Grafana`
 
 ---
 
-## 🌐 Find Me Here
+## 🧭 What I Can Contribute — Recruiter Quick Reference
+
+| If you're hiring for... | I bring... |
+|---|---|
+| **DevOps Engineer** | Jenkins pipelines, Ansible automation, Git workflows, Linux admin |
+| **Cloud Engineer (AWS)** | EC2, S3, IAM, VPC, CloudWatch hands-on, Terraform IaC |
+| **Platform / Infrastructure Engineer** | Kubernetes cluster deployment, container orchestration, IaC |
+| **SRE / Monitoring Role** | Prometheus + Grafana stack setup, observability fundamentals |
+| **CI/CD / Automation Engineer** | End-to-end pipeline design, GitHub Webhooks, zero-manual-step deployments |
+| **Cloud Security (Entry Level)** | IAM least-privilege, SSH key auth, VPC security groups |
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpender_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpender-kumar-5280b7226)
 [![Gmail](https://img.shields.io/badge/Gmail-pushpender7505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushpender7505@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PushpenderKumar7505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushpenderKumar7505)
+
+> 💬 *I'm actively looking for **Cloud, DevOps, or Infrastructure** roles — fresher or intern level.*
+> *If my skills match what your team needs, let's talk!*
 
 </div>
 
@@ -234,14 +262,11 @@ Stack: Data Analysis · Excel · Research
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=PushpenderKumar7505&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d47a1,70:00acc1,100:0a0e1a&height=130&section=footer&animation=fadeIn"/>
 
-> *"Automate everything. Deploy with confidence. Sleep at night."*
-> — **Pushpender Kumar**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PushpenderKumar7505&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PushpenderKumar7505)
+*"Build. Automate. Monitor. Repeat."*
 
 </div>
