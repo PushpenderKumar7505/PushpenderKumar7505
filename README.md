@@ -1,255 +1,247 @@
-<h1 align="center">Pushpender Kumar</h1>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Pushpender%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automator&descAlignY=60&descSize=18&descColor=00d9ff&animation=fadeIn"/>
+</div>
 
-<p align="center">
-<b>DevOps Engineer · Cloud Engineer (Fresher) · AWS Infrastructure & CI/CD Automation</b><br>
-Gurugram, India · B.Tech CSE (2024) · Immediate joiner · Open to Delhi NCR and Remote roles
-</p>
+<div align="center">
 
-<p align="center">
-<a href="#-impact">Impact</a> ·
-<a href="#-skills">Skills</a> ·
-<a href="#-projects">Projects</a> ·
-<a href="#-experience">Experience</a> ·
-<a href="#-education--training">Education</a> ·
-<a href="#-contact">Contact</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Automating+AWS+EC2+in+under+3+minutes...;⚙️+Jenkins+%7C+Ansible+%7C+Kubernetes+%7C+Terraform;🐳+Containers+%26+Pods+%7C+Zero+Manual+Steps;☁️+Cloud+Infrastructure+%7C+IaC+%7C+CI%2FCD+Pipelines;🔥+Turning+15-min+tasks+into+3-min+pipelines)](https://git.io/typing-svg)
 
-I automate AWS infrastructure provisioning and deployment pipelines so that nothing is done by hand twice. My hands-on work covers **Jenkins CI/CD, Ansible, Kubernetes on AWS EC2 and Linux administration**, built and documented end to end in the projects below.
-
-**Target roles:** DevOps Engineer · Cloud Engineer · Cloud Support Engineer · Cloud Infrastructure Engineer (fresher / 0–1 year)
+</div>
 
 ---
 
-## 📈 Impact
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-| Metric | Result | Where |
-|---|---|---|
-| EC2 provisioning time | **15+ min → under 3 min (about 80% faster)** | Both CI/CD projects |
-| Manual AWS console steps | **100% eliminated** | Both CI/CD projects |
-| Ansible connectivity check (`ansible -m ping`) | **0 failures** across the 3-node setup | Project 1 |
-| Kubernetes pod deployment | Confirmed **Running** via `kubectl` | Project 1 |
+## `$ whoami`
 
-*Results are from hands-on lab and training projects, documented in the linked repositories.*
+```bash
+Name     : Pushpender Kumar
+Role     : DevOps Engineer (Fresher / Intern)
+Location : Mathura → Gurugram, India 🇮🇳
+Degree   : B.Tech CSE — GLA University (2024)
+Status   : Actively Seeking Opportunities ✅
+Belief   : "If I do it twice, I'll automate it."
+```
+
+<br>
+
+- 🔥 &nbsp;Building **Jenkins + Ansible + K8s** CI/CD pipelines on **AWS**
+- ⚡ &nbsp;Cut EC2 provisioning time: **15 min → under 3 min**
+- 🌱 &nbsp;Levelling up in **Terraform IaC** & advanced **Kubernetes**
+- 🤝 &nbsp;Open to collaborate on **DevOps & Cloud** projects
+- 💬 &nbsp;Ask me about: `Jenkins` `AWS EC2` `Docker` `Kubernetes` `Ansible` `Linux`
+
+<br clear="right"/>
 
 ---
 
-## 🧰 Skills
+## 🧰 Arsenal
+
+<div align="center">
+
+**⚙️ CI/CD & Automation**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**☁️ AWS Cloud**
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+
+**🐳 Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+**📦 IaC & Monitoring**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**🖥️ Scripting & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🔀 Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**🧩 Backend & Database**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects That Actually Ship
 
 <details open>
-<summary><b>Core stack (project-backed)</b></summary>
+<summary><b>🔴 Project 1 — Full Stack CI/CD: Jenkins → Ansible → Kubernetes on AWS</b></summary>
+<br>
 
-| Area | Tools |
+> *"One GitHub push. Zero manual steps. Kubernetes pod up and running."*
+
+```
+GitHub Push ──► Jenkins Pipeline ──► SCP Transfer ──► Ansible SSH ──► K8s Pod ✅
+     │               │                    │                 │               │
+  Webhook        3 Stages            ec2.yml runs      pod.yml runs    ubuntu:latest
+  Trigger    Auto checkout +      EC2 + SG + AMI     Multi-container   Status: Running
+             file transfer         + Keypair          deployment       Confirmed kubectl
+```
+
+| What I Built | Impact |
 |---|---|
-| **AWS** | EC2, S3, IAM, VPC, Security Groups, CloudWatch |
-| **CI/CD** | Jenkins (3-stage pipelines), GitHub Webhooks, Bash |
-| **Configuration Management** | Ansible (playbooks, SSH key authentication, `amazon.aws` collection) |
-| **Containers & Orchestration** | Docker, Kubernetes, kubectl |
-| **OS & Scripting** | Linux (Ubuntu), Bash, YAML |
-| **Version Control** | Git, GitHub |
+| 3-stage Jenkins pipeline (Checkout → SCP Transfer → Remote Execute) | **100% automated** end-to-end |
+| Ansible `ec2.yml` using `amazon.aws` collection | EC2 + Security Group + AMI + Keypair via code |
+| Passwordless SSH between Ansible control node & K8s server | `ansible -m ping` → **0 failures** |
+| K8s multi-container pod deployment via remote `pod.yml` trigger | Pods confirmed **Running** state |
+| 3 EC2 instances managed in `ap-south-1` via MobaXterm | Jenkins (t3.micro) · Ansible (t3.micro) · K8s (c7i.flex.large) |
+
+**Stack:** `Jenkins` `Ansible` `Kubernetes` `AWS EC2` `GitHub` `SSH` `SCP` `Linux Ubuntu`
 
 </details>
 
-<details>
-<summary><b>Training-level and prior experience</b></summary>
+---
 
-| Area | Tools |
+<details open>
+<summary><b>🟡 Project 2 — Automated AWS EC2 Provisioning via Jenkins CI/CD</b></summary>
+<br>
+
+> *"Manual clicking eliminated. 15 minutes became 3 minutes."*
+
+```
+Code Push ──► Webhook Fires ──► Jenkins Triggers ──► Bash Script Runs ──► EC2 Alive 🟢
+    │               │                 │                     │                   │
+  GitHub      Instant trigger    Parameterized job      AWS API calls      Auditable
+  commit      on every push      version-controlled    IAM least-priv     deployment
+```
+
+| What I Built | Impact |
 |---|---|
-| **Infrastructure as Code** | Terraform (training-level; currently building hands-on projects) |
-| **Monitoring** | Prometheus, Grafana, CloudWatch |
-| **Backend (prior internship)** | PHP (CodeIgniter), MySQL |
+| Parameterized Bash scripts via Jenkins jobs | **Eliminated 100%** of manual console clicks |
+| GitHub Webhooks → event-driven pipeline | Auto-triggers on every push across 2 repos |
+| AWS IAM least-privilege policies on Ubuntu | Cloud security best practices enforced |
+| End-to-end automated pipeline | **15 min → under 3 min** ⚡ provisioning time |
+
+**Stack:** `Jenkins` `GitHub Webhooks` `AWS EC2` `AWS IAM` `Bash Scripting` `Linux Ubuntu`
 
 </details>
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-### 1. End-to-End CI/CD: Jenkins → Ansible → Kubernetes on AWS
-Repository: [Devops-automation-jenkins-ansible](https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=PushpenderKumar7505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PushpenderKumar7505&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+</div>
 
-One GitHub push triggers the full chain, from EC2 provisioning to a running Kubernetes pod, with no manual steps.
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=PushpenderKumar7505&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff"/>
+</div>
 
-**Pipeline flow**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushpenderKumar7505&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
+</div>
 
-```mermaid
-flowchart LR
-    DEV["Developer<br/>git push"] --> GH["GitHub Repository"]
-    GH -->|"Webhook"| J["Jenkins Pipeline<br/>3 stages"]
-    J -->|"SCP transfer<br/>ec2.yml, pod.yml"| A["Ansible Control Node"]
-    A -->|"ec2.yml<br/>amazon.aws collection"| EC2["New EC2 Instance<br/>+ Security Group + Key Pair"]
-    A -->|"pod.yml over<br/>passwordless SSH"| K["Kubernetes Server"]
-    K --> P["Pod Running<br/>verified with kubectl"]
+---
 
-    style DEV fill:#1f2937,stroke:#9ca3af,color:#fff
-    style GH fill:#24292f,stroke:#9ca3af,color:#fff
-    style J fill:#d24939,stroke:#fff,color:#fff
-    style A fill:#ee0000,stroke:#fff,color:#fff
-    style EC2 fill:#ff9900,stroke:#fff,color:#000
-    style K fill:#326ce5,stroke:#fff,color:#fff
-    style P fill:#16a34a,stroke:#fff,color:#fff
+## 💼 Work Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Mentobile Technology
+**Backend Developer Intern**
+`Jul 2024 – Oct 2024`
+
+```
+Stack: CodeIgniter PHP · MySQL · Git
+```
+- Built & maintained backend modules with **MVC** framework
+- Designed MySQL schemas + full **CRUD** operations
+- Git branching, PRs & code reviews in team workflow
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Precise Research Solution
+**Market Research Associate · Gurugram**
+`Jan 2025 – Jun 2025`
+
+```
+Stack: Data Analysis · Excel · Research
+```
+- Cleaned & analysed structured datasets
+- Produced **decision-support reports** for stakeholders
+- Synthesised multi-source findings for presentations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+```
+🎓  B.Tech in Computer Science & Engineering
+    GLA University, Mathura  ·  Jul 2020 – May 2024  ·  CGPA: 6.83 / 10.0
+
+📜  AWS & DevOps Infrastructure Training — Croma Campus  (Sep 2025 – Mar 2026)
+    ├── Linux Administration · Git & GitHub Workflows
+    ├── Jenkins CI/CD · GitHub Webhooks · Docker · Kubernetes
+    ├── AWS (EC2 · S3 · IAM · VPC · CloudWatch)
+    ├── Terraform (IaC) · Ansible (Config Mgmt)
+    └── Prometheus · Grafana (Monitoring & Observability)
+
+📋  Other Certifications
+    ├── Web Development Bootcamp — JOVAC
+    ├── Front End Development (HTML & CSS) — Great Learning
+    └── Course on Computer Concepts (CCC) — NIELIT
 ```
 
-<details>
-<summary><b>🔍 Click to expand: infrastructure layout</b></summary>
+---
 
-```mermaid
-flowchart TB
-    ADMIN["Admin workstation<br/>MobaXterm SSH"]
+## 🌐 Find Me Here
 
-    subgraph AWS["AWS Region: ap-south-1 (Mumbai)"]
-        direction LR
-        JEN["Jenkins Server<br/>EC2 t3.micro"]
-        ANS["Ansible Control Node<br/>EC2 t3.micro"]
-        K8S["Kubernetes Server<br/>EC2 c7i.flex.large"]
-    end
+<div align="center">
 
-    ADMIN -.->|"SSH"| JEN
-    ADMIN -.->|"SSH"| ANS
-    ADMIN -.->|"SSH"| K8S
-    JEN -->|"SCP + remote execute"| ANS
-    ANS -->|"Passwordless SSH<br/>ansible -m ping: 0 failures"| K8S
-    ANS -->|"amazon.aws modules"| NEW["Provisioned EC2<br/>+ Security Group + Key Pair"]
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpender_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpender-kumar-5280b7226)
+[![Gmail](https://img.shields.io/badge/Gmail-pushpender7505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushpender7505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PushpenderKumar7505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushpenderKumar7505)
 
-</details>
-
-<details>
-<summary><b>🔍 Click to expand: execution sequence</b></summary>
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Dev as Developer
-    participant GH as GitHub
-    participant J as Jenkins
-    participant A as Ansible Node
-    participant AWS as AWS EC2 API
-    participant K as Kubernetes Server
-
-    Dev->>GH: git push
-    GH->>J: Webhook triggers pipeline
-    J->>J: Stage 1: Checkout
-    J->>A: Stage 2: SCP transfer of playbooks
-    J->>A: Stage 3: Remote execute over SSH
-    A->>AWS: ec2.yml creates EC2, Security Group, Key Pair
-    A->>K: pod.yml over passwordless SSH
-    K-->>A: Pod status: Running
-    A-->>J: Playbook run complete
-```
-
-</details>
-
-| What I built | Outcome |
-|---|---|
-| 3-stage Jenkins pipeline (Checkout → SCP Transfer → Remote Execute) | Fully automated, no manual steps |
-| Ansible `ec2.yml` using the `amazon.aws` collection | EC2, Security Group, AMI and key pair created from code |
-| Passwordless SSH between Ansible control node and Kubernetes server | `ansible -m ping` returned 0 failures |
-| Multi-container pod deployment triggered remotely via `pod.yml` | Pods confirmed in Running state |
-| 3 EC2 instances in `ap-south-1` (Jenkins, Ansible, Kubernetes) | Managed over SSH via MobaXterm |
-
-**Stack:** `Jenkins` `Ansible` `Kubernetes` `AWS EC2` `GitHub` `SSH/SCP` `Ubuntu`
+</div>
 
 ---
 
-### 2. Automated AWS EC2 Provisioning via Jenkins CI/CD
-Repository: [Jenkins-ansible-aws-ec2-provisioning](https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning)
+<div align="center">
 
-A GitHub webhook triggers a parameterized Jenkins job that provisions EC2 on AWS, replacing manual console work.
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=PushpenderKumar7505&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
-**Pipeline flow**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-```mermaid
-flowchart LR
-    C["Code push<br/>to GitHub"] -->|"Webhook fires"| J["Jenkins<br/>parameterized job"]
-    J --> S["Bash script<br/>version-controlled"]
-    S -->|"AWS API calls<br/>IAM least-privilege"| E["EC2 instance<br/>provisioned"]
-    E --> R["Auditable,<br/>repeatable deployment"]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-    style C fill:#24292f,stroke:#9ca3af,color:#fff
-    style J fill:#d24939,stroke:#fff,color:#fff
-    style S fill:#4eaa25,stroke:#fff,color:#fff
-    style E fill:#ff9900,stroke:#fff,color:#000
-    style R fill:#16a34a,stroke:#fff,color:#fff
-```
+> *"Automate everything. Deploy with confidence. Sleep at night."*
+> — **Pushpender Kumar**
 
-<details>
-<summary><b>🔍 Click to expand: manual vs automated</b></summary>
+[![Profile Views](https://komarev.com/ghpvc/?username=PushpenderKumar7505&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PushpenderKumar7505)
 
-```mermaid
-flowchart LR
-    subgraph BEFORE["Before: manual, 15+ minutes"]
-        direction LR
-        M1["Open AWS console"] --> M2["Configure instance"] --> M3["Set security group and key"] --> M4["Launch and verify"]
-    end
-    subgraph AFTER["After: automated, under 3 minutes"]
-        direction LR
-        A1["git push"] --> A2["Jenkins job runs"] --> A3["EC2 ready"]
-    end
-    BEFORE ==>|"CI/CD automation"| AFTER
-```
-
-</details>
-
-| What I built | Outcome |
-|---|---|
-| Parameterized Bash scripts run through Jenkins jobs | 100% of manual console clicks eliminated |
-| GitHub Webhooks driving an event-based pipeline | Auto-trigger on every push, across 2 repositories |
-| AWS IAM least-privilege policies | Scoped permissions for the automation user |
-| End-to-end automated pipeline | Provisioning time: **15+ min → under 3 min** |
-
-**Stack:** `Jenkins` `GitHub Webhooks` `AWS EC2` `AWS IAM` `Bash` `Ubuntu`
-
----
-
-## 💼 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| Associate (Incident Response), FTH | UnitedLex, Gurugram | Jul 2026 |
-| Market Research Associate | Precise Research Solution, Gurugram | Jan 2025 – Jun 2025 |
-| Backend Developer Intern | Mentobile Technology | Jul 2024 – Oct 2024 |
-
-<details>
-<summary><b>Click to expand: responsibilities</b></summary>
-
-- **UnitedLex:** Investigated data breaches and classified PII/PHI in affected datasets using Relativity and Microsoft 365.
-- **Precise Research Solution:** Cleaned and analysed structured datasets and produced decision-support reports for stakeholders.
-- **Mentobile Technology:** Built backend modules in CodeIgniter (MVC), designed MySQL schemas and CRUD operations, and worked through Git branching, pull requests and code reviews.
-
-</details>
-
----
-
-## 🎓 Education & Training
-
-- **B.Tech, Computer Science & Engineering**, GLA University, Mathura (2020 – 2024)
-- **AWS & DevOps Infrastructure Training**, Croma Campus, NASSCOM-certified, Wipro Credential Partner (Sep 2025 – Mar 2026)
-
-<details>
-<summary><b>Click to expand: training coverage and other courses</b></summary>
-
-- Linux administration, Git and GitHub workflows
-- Jenkins CI/CD, GitHub Webhooks, Docker, Kubernetes
-- AWS: EC2, S3, IAM, VPC, CloudWatch
-- Terraform, Ansible, Prometheus, Grafana
-- Web Development Bootcamp (JOVAC) · Front-End Development, HTML & CSS (Great Learning) · Course on Computer Concepts, CCC (NIELIT)
-
-</details>
-
----
-
-## 🌱 Currently Working On
-
-- Terraform infrastructure as code on AWS
-- Advanced Kubernetes
-- Linux administration fundamentals
-
----
-
-## 📬 Contact
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://cloud-devops-shine.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:pushpender7505@gmail.com"><img src="https://img.shields.io/badge/Email-pushpender7505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+</div>
