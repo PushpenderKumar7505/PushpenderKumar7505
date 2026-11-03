@@ -19,26 +19,29 @@
 </p>
 
 <sub>
-<a href="#-about">About</a> ·
-<a href="#-skills">Skills</a> ·
-<a href="#-featured-projects">Projects</a> ·
-<a href="#-experience">Experience</a> ·
-<a href="#-education--training">Education</a> ·
-<a href="#-github-analytics">Analytics</a> ·
-<a href="#-contact">Contact</a>
+<a href="#about">About</a> ·
+<a href="#skills">Skills</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#education">Education</a> ·
+<a href="#analytics">Analytics</a> ·
+<a href="#contact">Contact</a>
 </sub>
 
 </div>
 
----
+<div align="center">
+  <img src="assets/snapshot.svg" alt="Snapshot: 2 CI/CD projects, 3 EC2 nodes, 3 pipeline stages, 5 of 6 green builds" width="100%" />
+</div>
 
-## 👋 About
+<a id="about"></a>
+<img src="assets/sec-about.svg" alt="About" width="100%" />
 
 I am a fresher DevOps and Cloud engineer (B.Tech CSE, 2024) who learns by building and documenting. My hands-on work is **CI/CD automation on AWS**: Jenkins pipelines that are triggered by GitHub webhooks, Ansible playbooks that create AWS EC2 infrastructure, and a Kubernetes (minikube) pod deployed from code.
 
 | | |
 |---|---|
-| **What I have built** | Two Jenkins CI/CD projects on AWS EC2 (see [Featured Projects](#-featured-projects)) |
+| **What I have built** | Two Jenkins CI/CD projects on AWS EC2 (see [Featured Projects](#featured-projects)) |
 | **How my automation works** | `git push` → GitHub webhook → Jenkins 3-stage pipeline → `scp` + `ssh` to an Ansible server → playbook creates EC2 resources or deploys a Kubernetes pod |
 | **Core tools** | Jenkins, Ansible, AWS EC2, Kubernetes + kubectl, Git/GitHub, Linux (Ubuntu) |
 | **Training in progress** | Terraform, advanced Kubernetes, Linux administration, monitoring with Prometheus and Grafana |
@@ -46,15 +49,13 @@ I am a fresher DevOps and Cloud engineer (B.Tech CSE, 2024) who learns by buildi
 
 > Every project below is a **lab / training project** built on my own AWS account. The details shown come from the repositories and their screenshots.
 
----
-
-## 🎯 Open to Roles
+<a id="roles"></a>
+<img src="assets/sec-roles.svg" alt="Open to Roles" width="100%" />
 
 `DevOps Engineer (Fresher)` · `AWS Cloud Engineer` · `Junior Cloud Engineer` · `Cloud Infrastructure Engineer` · `DevOps Trainee` · `Cloud Support Associate` · `Junior Site Reliability Engineer`
 
----
-
-## 🧰 Skills
+<a id="skills"></a>
+<img src="assets/sec-skills.svg" alt="Skills" width="100%" />
 
 Grouped by how I have actually used each tool, so you can judge depth quickly.
 
@@ -91,9 +92,8 @@ Terraform on AWS (building hands-on projects) · Advanced Kubernetes · Linux ad
   <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql&theme=dark" alt="Backend: PHP, CodeIgniter, MySQL" />
 </div>
 
----
-
-## 🚀 Featured Projects
+<a id="featured-projects"></a>
+<img src="assets/sec-projects.svg" alt="Featured Projects" width="100%" />
 
 ### 1️⃣ AWS Resource Provisioning via Jenkins, Ansible and Kubernetes CI/CD
 
@@ -159,6 +159,9 @@ flowchart TB
     ANS -->|"passwordless SSH"| K8S
     ANS -->|"EC2 API via amazon.aws"| SG
 ```
+
+<details>
+<summary><b>🔍 More architecture diagrams: Jenkins pipeline, Ansible, Kubernetes, sequence, components</b></summary>
 
 #### Jenkins pipeline execution
 
@@ -271,6 +274,8 @@ flowchart LR
     PB -->|"SSH key auth"| KN
 ```
 
+</details>
+
 #### What was verified
 
 | Check | Evidence |
@@ -363,7 +368,7 @@ Devops-automation-jenkins-ansible/
 
 </details>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ### 2️⃣ Automated AWS EC2 Provisioning via Jenkins CI/CD
 
@@ -415,9 +420,8 @@ SSH open to `0.0.0.0/0` on the created security group · `StrictHostKeyChecking=
 
 </details>
 
----
-
-## 💼 Experience
+<a id="experience"></a>
+<img src="assets/sec-experience.svg" alt="Experience" width="100%" />
 
 | Role | Organisation | Period |
 |---|---|---|
@@ -429,17 +433,15 @@ SSH open to `0.0.0.0/0` on the created security group · `StrictHostKeyChecking=
 - **Precise Research Solutions:** Cleaned and analysed structured datasets and produced decision-support reports for stakeholders.
 - **Mentobile Technologies:** Built backend modules in CodeIgniter (MVC), designed MySQL schemas and CRUD operations, and worked with Git branching, pull requests and code reviews.
 
----
-
-## 🎓 Education & Training
+<a id="education"></a>
+<img src="assets/sec-education.svg" alt="Education and Training" width="100%" />
 
 - 🎓 **B.Tech, Computer Science & Engineering**, GLA University, Mathura (2020 – 2024)
 - 🏅 **AWS & DevOps Infrastructure Training**, Croma Campus (NASSCOM-certified, Wipro Credential Partner), Sep 2025 – Mar 2026
 - 📚 Also completed: Web Development Bootcamp (JOVAC) · Front-End Development, HTML & CSS (Great Learning) · Course on Computer Concepts, CCC (NIELIT)
 
----
-
-## 📊 GitHub Analytics
+<a id="analytics"></a>
+<img src="assets/sec-analytics.svg" alt="GitHub Analytics" width="100%" />
 
 These cards are generated live from my public GitHub activity.
 
@@ -463,9 +465,8 @@ These cards are generated live from my public GitHub activity.
   <a href="https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderKumar7505&repo=Jenkins-ansible-aws-ec2-provisioning&theme=tokyonight&hide_border=true" alt="Jenkins-ansible-aws-ec2-provisioning" /></a>
 </div>
 
----
-
-## 📬 Contact
+<a id="contact"></a>
+<img src="assets/sec-contact.svg" alt="Contact" width="100%" />
 
 I am looking for an entry-level **DevOps / AWS Cloud / Cloud Infrastructure** role where I can keep automating and documenting. Available to join immediately.
 
