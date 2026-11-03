@@ -1,6 +1,11 @@
 <img src="assets/header.svg" alt="Pushpender Kumar, DevOps and AWS Cloud Engineer" width="100%" />
 
 <p align="center">
+  <strong>DevOps Engineer · AWS Cloud Engineer · Cloud Infrastructure</strong><br/>
+  📍 Gurugram, Haryana, India &nbsp;|&nbsp; Open to Delhi NCR, Gurugram, Noida and Remote roles
+</p>
+
+<p align="center">
   <em>Building automated cloud infrastructure and reliable CI/CD workflows with AWS, Jenkins, Ansible and Kubernetes.</em>
 </p>
 
@@ -15,15 +20,29 @@
 </p>
 
 <p align="center">
+  <a href="#profile-at-a-glance">Profile</a> ·
   <a href="#about">About</a> ·
   <a href="#skills">Skills</a> ·
   <a href="#featured-projects">Projects</a> ·
+  <a href="#all-repositories">Repositories</a> ·
   <a href="#experience">Experience</a> ·
   <a href="#education-and-training">Education</a> ·
   <a href="#learning-roadmap">Roadmap</a> ·
-  <a href="#github-analytics">Analytics</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+## Profile at a glance
+
+| | |
+|---|---|
+| **Name** | Pushpender Kumar |
+| **Current focus** | DevOps and AWS Cloud Engineering (fresher) |
+| **Target roles** | Junior DevOps Engineer · AWS Cloud Engineer · Cloud Infrastructure Engineer · Cloud Support Engineer · Junior SRE |
+| **Location** | Gurugram, Haryana, India (originally from Mathura, Uttar Pradesh) |
+| **Work preference** | Delhi NCR, Gurugram, Noida or Remote |
+| **Education** | B.Tech Computer Science and Engineering, GLA University (2024) |
+| **Training** | AWS and DevOps Infrastructure, Croma Campus, NASSCOM-certified (Sep 2025 – Mar 2026) |
+| **Availability** | Can join immediately |
 
 ## About
 
@@ -53,7 +72,7 @@ Grouped by how I have used each technology.
 |---|---|---|
 | Infrastructure as Code | <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="34" alt="Terraform" /> | Training-level, hands-on projects in progress |
 | Containers | <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="34" alt="Docker" /> | Course and lab use |
-| Scripting | <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="34" alt="Bash" /> | Course and lab use |
+| Scripting | <img src="https://skillicons.dev/icons?i=bash,python&theme=dark" height="34" alt="Bash, Python" /> | Course and lab use |
 | Monitoring | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="34" alt="Prometheus, Grafana" /> | Course and lab use |
 | AWS services | <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="34" alt="AWS" /> | S3, VPC, CloudWatch at training level |
 
@@ -321,22 +340,51 @@ SSH is open to `0.0.0.0/0` on the created security group, the pipeline uses `Str
 
 </details>
 
+## All Repositories
+
+A map of my public work on GitHub, grouped by area.
+
+### DevOps and Cloud
+
+| Repository | Description | Stack |
+|---|---|---|
+| [Devops-automation-jenkins-ansible](https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible) | End-to-end CI/CD pipeline that provisions EC2 and deploys a Kubernetes pod through GitHub webhooks | Jenkins · Ansible · Kubernetes · AWS EC2 |
+| [Jenkins-ansible-aws-ec2-provisioning](https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning) | Webhook-triggered Jenkins pipeline (`Jenkinsfile`) that creates a security group and EC2 instance with Ansible | Jenkins · Ansible · AWS EC2 · IAM |
+
+### Backend and web development
+
+| Repository | Description | Stack |
+|---|---|---|
+| [CodeIgnitier-3-](https://github.com/PushpenderKumar7505/CodeIgnitier-3-) | PHP MVC internship project with CRUD operations and MySQL integration | PHP · CodeIgniter 3 · MySQL |
+| [Basic_project_CI-3](https://github.com/PushpenderKumar7505/Basic_project_CI-3) | Basic starter project built with CodeIgniter 3 | PHP · CodeIgniter 3 |
+| [E-Voting-Machine](https://github.com/PushpenderKumar7505/E-Voting-Machine) | E-voting application using blockchain | PHP |
+
+### Practice and learning
+
+| Repository | Description |
+|---|---|
+| [pyhton-programming](https://github.com/PushpenderKumar7505/pyhton-programming) | Python practice programs |
+| [question1](https://github.com/PushpenderKumar7505/question1) | Practice exercise |
+
+> Browse the complete list on my [GitHub repositories page](https://github.com/PushpenderKumar7505?tab=repositories).
+
 ## Experience
 
-| Role | Organisation | Period |
-|---|---|---|
-| Associate, FTH (Incident Response) | UnitedLex India, Gurugram | Jul 2026 |
-| Market Research Associate Intern | Precise Research Solutions, Gurugram | Jan 2025 – Jun 2025 |
-| Backend Developer Intern | Mentobile Technologies | Jul 2024 – Oct 2024 |
+| Role | Organisation | Location | Period |
+|---|---|---|---|
+| Associate, FTH (Incident Response), contract | UnitedLex India | Gurugram | Jul 2026 |
+| Market Research Associate Intern | Precise Research Solutions | Gurugram | Jan 2025 – Jun 2025 |
+| Backend Developer Intern | Mentobile Technologies | Remote / India | Jul 2024 – Oct 2024 |
 
-- **UnitedLex:** investigated data breaches and classified PII/PHI in affected datasets using Relativity and Microsoft 365.
-- **Precise Research Solutions:** cleaned and analysed structured datasets and produced decision-support reports.
-- **Mentobile Technologies:** built CodeIgniter (MVC) backend modules, designed MySQL schemas and CRUD operations, and worked with Git branching, pull requests and code reviews.
+- **UnitedLex (Associate, FTH Incident Response):** investigated data breaches and classified PII/PHI in affected datasets using Relativity and Microsoft 365.
+- **Precise Research Solutions (Market Research Associate Intern):** cleaned and analysed structured datasets and produced decision-support reports.
+- **Mentobile Technologies (Backend Developer Intern):** built CodeIgniter (MVC) backend modules, designed MySQL schemas and CRUD operations, and worked with Git branching, pull requests and code reviews.
 
 ## Education and Training
 
-- **B.Tech, Computer Science Engineering**, GLA University, Mathura (2020 – 2024)
-- **AWS & DevOps Infrastructure Training**, Croma Campus, NASSCOM-certified, Wipro Credential Partner (Sep 2025 – Mar 2026)
+- **B.Tech, Computer Science Engineering**, GLA University, Mathura, Uttar Pradesh (2020 – 2024)
+- **AWS and DevOps Infrastructure Training**, Croma Campus, NASSCOM-certified, Wipro Credential Partner (Sep 2025 – Mar 2026)
+- **Other certifications:** Web Development Bootcamp (JOVAC) · Front End Development, HTML and CSS (Great Learning) · Course on Computer Concepts, CCC (NIELIT)
 
 ## Learning Roadmap
 
@@ -355,13 +403,9 @@ Where I am heading next, building on the projects above:
 
 <img src="https://streak-stats.demolab.com?user=PushpenderKumar7505&theme=tokyonight&hide_border=true" width="100%" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PushpenderKumar7505&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution graph" />
-
-Repository highlights are the two featured projects above.
-
 ## Contact
 
-I am open to entry-level roles as a **Junior DevOps Engineer**, **AWS Cloud Engineer**, **Cloud Infrastructure Engineer**, **Cloud Support Engineer** or **Junior SRE**, and I can join immediately.
+📍 **Gurugram, Haryana, India** · Open to entry-level roles as a **Junior DevOps Engineer**, **AWS Cloud Engineer**, **Cloud Infrastructure Engineer**, **Cloud Support Engineer** or **Junior SRE**. I can join immediately.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
