@@ -1,131 +1,95 @@
-<div align="center">
+<img src="assets/header.svg" alt="Pushpender Kumar, DevOps and AWS Cloud Engineer" width="100%" />
 
-<img src="assets/header.svg" alt="Pushpender Kumar: DevOps and Cloud Engineer. Animated pipeline from GitHub to Jenkins, Ansible, AWS EC2 and Kubernetes" width="100%" />
-
-<a href="https://github.com/PushpenderKumar7505">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&height=40&lines=DevOps+%26+Cloud+Engineer+%28Fresher%29;Jenkins+%C2%B7+Ansible+%C2%B7+Kubernetes+%C2%B7+AWS+EC2;git+push+%E2%86%92+Jenkins+%E2%86%92+Ansible+%E2%86%92+AWS+%2F+Kubernetes;Immediate+joiner+%C2%B7+Gurugram%2C+India" alt="Typing animation" />
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-16a34a?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Availability-Immediate%20joiner-0ea5e9?style=flat-square" alt="Immediate joiner" />
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-64748b?style=flat-square" alt="Gurugram, India" />
+<p align="center">
+  <em>Building automated cloud infrastructure and reliable CI/CD workflows with AWS, Jenkins, Ansible and Kubernetes.</em>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://cloud-devops-shine.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:pushpender7505@gmail.com"><img src="https://img.shields.io/badge/Email-pushpender7505%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://github.com/PushpenderKumar7505"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=30&lines=CI%2FCD+automation+with+Jenkins+and+GitHub+webhooks;Infrastructure+provisioning+with+Ansible+on+AWS+EC2;Kubernetes+deployments+verified+with+kubectl" alt="Typing animation" /></a>
 </p>
 
-<sub>
-<a href="#about">About</a> ·
-<a href="#skills">Skills</a> ·
-<a href="#featured-projects">Projects</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#education">Education</a> ·
-<a href="#analytics">Analytics</a> ·
-<a href="#contact">Contact</a>
-</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://cloud-devops-shine.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2a3d?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pushpender7505@gmail.com"><img src="https://img.shields.io/badge/Email-pushpender7505%40gmail.com-0f2a3d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#education-and-training">Education</a> ·
+  <a href="#learning-roadmap">Roadmap</a> ·
+  <a href="#github-analytics">Analytics</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-<div align="center">
-  <img src="assets/snapshot.svg" alt="Snapshot: 2 CI/CD projects, 3 EC2 nodes, 3 pipeline stages, 5 of 6 green builds" width="100%" />
-</div>
+## About
 
-<a id="about"></a>
-<img src="assets/sec-about.svg" alt="About" width="100%" />
+I am a B.Tech Computer Science graduate (GLA University, 2024) focused on DevOps and AWS cloud infrastructure. After completing AWS and DevOps infrastructure training at Croma Campus (Sep 2025 – Mar 2026), I built two CI/CD projects on AWS to apply it: Jenkins pipelines triggered by GitHub webhooks, Ansible playbooks that create EC2 resources, and a Kubernetes pod deployed from code and verified with `kubectl`.
 
-I am a fresher DevOps and Cloud engineer (B.Tech CSE, 2024) who learns by building and documenting. My hands-on work is **CI/CD automation on AWS**: Jenkins pipelines that are triggered by GitHub webhooks, Ansible playbooks that create AWS EC2 infrastructure, and a Kubernetes (minikube) pod deployed from code.
+My earlier experience is in backend development and operations support, not DevOps. My DevOps experience comes from training and the projects below, which are lab setups on my own AWS account. I am looking for an entry-level role where I can keep building on this foundation.
 
-| | |
-|---|---|
-| **What I have built** | Two Jenkins CI/CD projects on AWS EC2 (see [Featured Projects](#featured-projects)) |
-| **How my automation works** | `git push` → GitHub webhook → Jenkins 3-stage pipeline → `scp` + `ssh` to an Ansible server → playbook creates EC2 resources or deploys a Kubernetes pod |
-| **Core tools** | Jenkins, Ansible, AWS EC2, Kubernetes + kubectl, Git/GitHub, Linux (Ubuntu) |
-| **Training in progress** | Terraform, advanced Kubernetes, Linux administration, monitoring with Prometheus and Grafana |
-| **Seeking** | Entry-level DevOps / Cloud roles in Delhi NCR, Noida, Pune or remote |
+> **Engineering approach:** automate what is repeatable, verify every step, and document the result so someone else can reproduce it.
 
-> Every project below is a **lab / training project** built on my own AWS account. The details shown come from the repositories and their screenshots.
+## Skills
 
-<a id="roles"></a>
-<img src="assets/sec-roles.svg" alt="Open to Roles" width="100%" />
+Grouped by how I have used each technology.
 
-`DevOps Engineer (Fresher)` · `AWS Cloud Engineer` · `Junior Cloud Engineer` · `Cloud Infrastructure Engineer` · `DevOps Trainee` · `Cloud Support Associate` · `Junior Site Reliability Engineer`
+### Hands-on (used in my projects)
 
-<a id="skills"></a>
-<img src="assets/sec-skills.svg" alt="Skills" width="100%" />
+| Area | Tools | What I have done |
+|---|---|---|
+| Cloud | <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="34" alt="AWS" /> | EC2, security groups, key pairs, subnets; IAM role attached to the Ansible server |
+| CI/CD | <img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" height="34" alt="Jenkins, Git, GitHub" /> | Jenkins Pipeline jobs, `sshagent` credentials, GitHub webhooks |
+| Automation | <img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="34" alt="Ansible" /> | Playbooks in YAML with the `amazon.aws` and `k8s` modules, passwordless SSH, `ansible -m ping` |
+| Containers | <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="34" alt="Kubernetes" /> | Single-node minikube on EC2, two-container pod, `kubectl` verification |
+| Operating systems | <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" height="34" alt="Linux, Ubuntu" /> | Ubuntu servers administered over SSH |
 
-Grouped by how I have actually used each tool, so you can judge depth quickly.
+### Training and foundational knowledge
 
-### ✅ Hands-on (used in my projects)
+| Area | Tools | Scope |
+|---|---|---|
+| Infrastructure as Code | <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="34" alt="Terraform" /> | Training-level, hands-on projects in progress |
+| Containers | <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="34" alt="Docker" /> | Course and lab use |
+| Scripting | <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="34" alt="Bash" /> | Course and lab use |
+| Monitoring | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="34" alt="Prometheus, Grafana" /> | Course and lab use |
+| AWS services | <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="34" alt="AWS" /> | S3, VPC, CloudWatch at training level |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,jenkins,ansible,kubernetes,git,github,linux,ubuntu&theme=dark" alt="Hands-on skills: AWS, Jenkins, Ansible, Kubernetes, Git, GitHub, Linux, Ubuntu" />
-</div>
+### Previous backend experience
 
-| Area | What I have done with it |
-|---|---|
-| **AWS** | Launched and managed EC2 instances, security groups, key pairs and subnets; attached an IAM role so the Ansible server needs no stored access keys |
-| **Jenkins** | Installed on EC2; built 3-stage Pipeline jobs; `sshagent` credentials; GitHub webhook trigger |
-| **Ansible** | Playbooks using the `amazon.aws` collection and the `k8s` module; passwordless SSH to managed nodes; `ansible -m ping` checks |
-| **Kubernetes** | Single-node minikube on EC2; deployed a two-container pod and verified it with `kubectl` |
-| **Git / GitHub** | Clone, commit, push, webhooks |
-| **Linux (Ubuntu)** | Server setup and SSH-based administration |
+<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql&theme=dark" height="34" alt="PHP, CodeIgniter, MySQL" /> &nbsp; Backend internship: CodeIgniter (MVC) modules and MySQL schemas.
 
-### 📘 Training-level (course and labs, not yet in a deployed project)
+## Featured Projects
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,bash,prometheus,grafana&theme=dark" alt="Training-level skills: Docker, Terraform, Bash, Prometheus, Grafana" />
-</div>
+<a href="https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible"><img src="assets/card-cicd-pipeline.svg" width="48.5%" alt="Project 1: AWS Provisioning via Jenkins, Ansible and Kubernetes CI/CD" /></a>
+<a href="https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning"><img src="assets/card-ec2-provisioning.svg" width="48.5%" alt="Project 2: Automated AWS EC2 Provisioning via Jenkins CI/CD" /></a>
 
-Docker · Terraform · Bash scripting · Prometheus · Grafana · AWS S3, VPC and CloudWatch
+### 1. AWS Resource Provisioning via Jenkins, Ansible and Kubernetes CI/CD
 
-### 🌱 Currently learning
+**Repository:** [Devops-automation-jenkins-ansible](https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible)
 
-Terraform on AWS (building hands-on projects) · Advanced Kubernetes · Linux administration fundamentals
+**Problem.** Creating cloud resources and deploying workloads by hand is slow, error-prone and hard to repeat.
 
-### 🗂️ Prior backend experience (internship)
+**Solution.** A three-server lab on AWS. A GitHub push triggers Jenkins, Jenkins copies the playbooks to an Ansible server, and Ansible either provisions an EC2 instance (`ec2.yml`) or deploys a Kubernetes pod (`pod1.yml`). Two Jenkins jobs follow the same three-stage pattern.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql&theme=dark" alt="Backend: PHP, CodeIgniter, MySQL" />
-</div>
+**Stack:** Jenkins · GitHub webhooks · Ansible (`amazon.aws`, `k8s`) · AWS EC2 · Kubernetes (minikube) · kubectl · SSH/SCP · Ubuntu
 
-<a id="featured-projects"></a>
-<img src="assets/sec-projects.svg" alt="Featured Projects" width="100%" />
-
-### 1️⃣ AWS Resource Provisioning via Jenkins, Ansible and Kubernetes CI/CD
-
-[![Repository](https://img.shields.io/badge/Repository-Devops--automation--jenkins--ansible-181717?style=flat-square&logo=github)](https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible)
-
-**Overview.** A three-server CI/CD lab on AWS. A GitHub push triggers Jenkins, Jenkins hands the playbooks to an Ansible server, and Ansible either provisions an EC2 instance (`ec2.yml`) or deploys a Kubernetes pod (`pod1.yml`). Two Jenkins pipeline jobs follow the same 3-stage pattern.
-
-**Technical problem it addresses.** Creating cloud resources and deploying workloads by hand in the console or terminal is slow, easy to get wrong and hard to repeat. Here the steps live in version-controlled playbooks and run the same way every time.
-
-**Stack:** `Jenkins` `GitHub Webhooks` `Ansible` `amazon.aws` `AWS EC2` `Kubernetes (minikube)` `kubectl` `SSH/SCP` `Ubuntu`
-
-#### End-to-end architecture
+#### End-to-end CI/CD pipeline
 
 ```mermaid
-flowchart LR
-    DEV(["Developer<br/>git push"]) --> GH["GitHub repository<br/>ec2.yml, pod1.yml"]
-    GH -->|"webhook on push"| JEN["Jenkins<br/>3-stage pipeline"]
-    JEN -->|"scp playbooks<br/>ssh via sshagent"| ANS["Ansible server"]
+flowchart TD
+    DEV(["Developer<br/>git push"]) --> GH["GitHub repository<br/>playbooks and docs"]
+    GH -->|"webhook (push event)"| JEN["Jenkins<br/>3-stage pipeline"]
+    JEN -->|"scp + ssh<br/>sshagent credential"| ANS["Ansible server"]
     ANS -->|"ec2.yml"| EC2["New EC2 instance<br/>+ security group"]
     ANS -->|"pod1.yml over SSH"| K8S["Kubernetes node<br/>minikube"]
-    K8S --> POD["Pod with 2 containers<br/>Running"]
+    K8S --> POD["Pod Running<br/>2 containers"]
 
-    classDef src fill:#24292f,stroke:#9ca3af,color:#fff
-    classDef ci fill:#d24939,stroke:#fff,color:#fff
-    classDef cm fill:#ee0000,stroke:#fff,color:#fff
-    classDef aws fill:#ff9900,stroke:#fff,color:#000
-    classDef k8s fill:#326ce5,stroke:#fff,color:#fff
-    class DEV,GH src
-    class JEN ci
-    class ANS cm
+    classDef default fill:#0f2236,stroke:#38bdf8,color:#e2e8f0
+    classDef aws fill:#0f2236,stroke:#ff9900,color:#e2e8f0
     class EC2 aws
-    class K8S,POD k8s
 ```
 
 #### AWS infrastructure
@@ -160,10 +124,21 @@ flowchart TB
     ANS -->|"EC2 API via amazon.aws"| SG
 ```
 
-<details>
-<summary><b>🔍 More architecture diagrams: Jenkins pipeline, Ansible, Kubernetes, sequence, components</b></summary>
+#### How it works
 
-#### Jenkins pipeline execution
+| Component | Implementation |
+|---|---|
+| **Jenkins pipeline** | Three stages: `Github connect` (checkout), `ansible-server` (`scp` playbooks to the Ansible server through `sshagent`), `ansible deploy` (`ssh` and run `ansible-playbook`) |
+| **GitHub webhook** | Push event to `/github-webhook/` on the Jenkins server (delivery verified for the `Aws-project` job) |
+| **AWS EC2 provisioning** | `ec2.yml` uses `amazon.aws.ec2_group` and `amazon.aws.ec2_instance` to create a security group and an instance |
+| **Ansible automation** | Playbooks run from a dedicated control node; AWS access comes from an attached IAM role, so no keys are stored on the server |
+| **Passwordless SSH** | Jenkins to Ansible server through the `ansible` credential; Ansible server to the managed node with a key pair in `authorized_keys` |
+| **Kubernetes deployment** | `pod1.yml` applies a two-container Pod with the `k8s` module on a minikube node |
+
+<details>
+<summary><b>More diagrams: Jenkins workflow, Ansible architecture, Kubernetes deployment, execution sequence</b></summary>
+
+#### Jenkins pipeline workflow
 
 ```mermaid
 flowchart TD
@@ -181,19 +156,23 @@ flowchart TD
     OK -->|"no"| RED(["Build FAILURE<br/>read console output and fix"])
 ```
 
-#### Ansible automation workflow
+#### Ansible automation architecture
 
 ```mermaid
-flowchart LR
-    subgraph ANS["Ansible server"]
+flowchart TB
+    ROLE["IAM role<br/>EC2 permissions"] -.->|"credentials"| MOD
+
+    subgraph CTRL["Ansible server (control node)"]
         direction TB
         EC2YML["ec2.yml<br/>hosts: localhost"]
         PODYML["pod1.yml<br/>hosts: all"]
+        MOD["amazon.aws and k8s modules<br/>boto3 / botocore"]
+        EC2YML --> MOD
+        PODYML --> MOD
     end
 
-    EC2YML --> T1["ec2_group<br/>create security group"] --> T2["ec2_instance<br/>launch and wait"]
-    T2 -.->|"amazon.aws + boto3<br/>IAM role credentials"| API[("AWS EC2 API")]
-    PODYML -->|"SSH key auth"| T4["k8s module<br/>apply Pod definition"] --> T5["Pod created on the node"]
+    MOD -->|"EC2 API calls"| EC2API["AWS EC2<br/>security group + instance"]
+    MOD -->|"SSH, key auth"| NODE["Kubernetes node<br/>Pod definition applied"]
 ```
 
 #### Kubernetes deployment workflow
@@ -206,12 +185,12 @@ flowchart TB
     D --> E["kubelet pulls ubuntu:latest"]
     E --> F["Container 1 started"]
     E --> G["Container 2 started"]
-    F --> H{{"Verify with kubectl get pods and describe"}}
+    F --> H{{"Verify: kubectl get pods and describe"}}
     G --> H
     H --> I(["Pod Ready, both containers Running"])
 ```
 
-#### Provisioning sequence
+#### Execution sequence
 
 ```mermaid
 sequenceDiagram
@@ -240,240 +219,153 @@ sequenceDiagram
     Note over J: Build marked SUCCESS or FAILURE
 ```
 
-#### Component interaction
-
-```mermaid
-flowchart LR
-    subgraph SRC["Source control"]
-        REPO["GitHub repository<br/>playbooks and docs"]
-        HOOK["Webhook<br/>/github-webhook/"]
-    end
-    subgraph CI["Jenkins server"]
-        JOB["Pipeline jobs<br/>Aws-project<br/>Kubernetes-project"]
-        CRED["SSH credential<br/>ID: ansible"]
-        PLG["Plugins<br/>Git, Pipeline, GitHub, SSH Agent"]
-    end
-    subgraph CM["Ansible server"]
-        PB["Playbooks<br/>ec2.yml, pod1.yml"]
-        COL["amazon.aws collection<br/>boto3 / botocore"]
-        ROLE["IAM role<br/>EC2 permissions"]
-    end
-    subgraph TGT["Targets"]
-        EC2API["AWS EC2 API"]
-        KN["Kubernetes node<br/>minikube + kubectl"]
-    end
-
-    REPO --- HOOK
-    HOOK -->|"push event"| JOB
-    PLG -.-> JOB
-    CRED -.->|"sshagent"| JOB
-    JOB -->|"scp + ssh"| PB
-    PB --> COL
-    ROLE -.->|"credentials"| COL
-    COL -->|"API calls"| EC2API
-    PB -->|"SSH key auth"| KN
-```
-
 </details>
 
-#### What was verified
-
-| Check | Evidence |
-|---|---|
-| 3 EC2 instances running (Jenkins, Ansible, Kubernetes) | AWS console screenshot in the repository |
-| Passwordless SSH from Ansible server to the managed node | `ansible all -m ping` returned `"ping": "pong"` |
-| Pod deployed on minikube and healthy | `kubectl describe pod` shows the pod scheduled to `minikube`, both containers `Running`, conditions `Ready: True` |
-| Pipeline pattern | Jenkins job configuration screenshots (3 stages: checkout, scp, `ansible-playbook`) |
-
-<details>
-<summary><b>Setup prerequisites</b></summary>
-
-<br>
-
-- **3 Ubuntu EC2 instances:** Jenkins, Ansible control node, Kubernetes node (minikube + `kubectl`)
-- **Jenkins:** plugins Git, Pipeline, GitHub, SSH Agent; credential of type *SSH Username with private key* (ID `ansible`, user `ubuntu`)
-- **Ansible server:** Ansible, `amazon.aws` collection, `python3-boto3` and `python3-botocore`, plus an IAM role with EC2 permissions attached to the instance (no access keys stored on disk)
-- **Kubernetes node:** reachable from the Ansible server over SSH with key-based login (public key in `authorized_keys`)
-- **Network:** Jenkins port `8080` open for the GitHub webhook; SSH `22` between the servers
-- **Inventory note:** `pod1.yml` uses `hosts: all`, so the Ansible inventory must contain only the Kubernetes node (or run with `--limit`)
-
-</details>
-
-<details>
-<summary><b>Installation and execution</b></summary>
-
-<br>
-
-1. Create the three EC2 instances and install Jenkins, Ansible and minikube.
-2. Generate an SSH key pair, add the public key to the managed node's `authorized_keys`, and add the private key to Jenkins as credential `ansible`.
-3. Verify connectivity from the Ansible server:
-   ```bash
-   ansible all -m ping
-   ```
-4. Create a Jenkins Pipeline job with the 3 stages below and enable the *GitHub hook trigger for GITScm polling*.
-5. In the GitHub repository add the webhook `http://<jenkins-public-ip>:8080/github-webhook/` (`application/json`, push event).
-6. Push a commit to `main` and watch the build in Jenkins.
-
-```groovy
-node {
-    stage('Github connect') {
-        git branch: 'main', url: 'https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible.git'
-    }
-    stage('ansible-server') {
-        sshagent(['ansible']) {
-            sh 'scp <workspace-path>/* ubuntu@<ansible-private-ip>:/home/ubuntu'
-        }
-    }
-    stage('ansible deploy') {
-        sshagent(['ansible']) {
-            sh 'ssh ubuntu@<ansible-private-ip> ansible-playbook <playbook>.yml'
-        }
-    }
-}
-```
-
-**Validation commands**
+#### Verification
 
 ```bash
-ansible all -m ping          # connectivity: expect "ping": "pong"
-kubectl get pods             # on the Kubernetes node: pod listed as Running
-kubectl describe pod <name>  # both containers Running, Ready: True
+ansible all -m ping            # on the Ansible server: expect "ping": "pong"
+kubectl get pods               # on the Kubernetes node: pod listed as Running
+kubectl describe pod croma-pod # both containers Running, Ready: True,
+                               # event: assigned default/croma-pod to minikube
 ```
 
-</details>
-
 <details>
-<summary><b>Project structure</b></summary>
+<summary><b>Prerequisites, execution steps, structure and limitations</b></summary>
+
+**Prerequisites**
+
+- Three Ubuntu EC2 instances: Jenkins, Ansible control node, Kubernetes node (minikube and `kubectl`)
+- Jenkins plugins: Git, Pipeline, GitHub, SSH Agent; credential type *SSH Username with private key* (ID `ansible`)
+- Ansible server: Ansible, `amazon.aws` collection, `python3-boto3`, IAM role with EC2 permissions
+- Jenkins port `8080` reachable from GitHub; SSH between the servers
+- `pod1.yml` uses `hosts: all`, so the inventory must contain only the Kubernetes node (or use `--limit`)
+
+**Execution**
+
+1. Create the servers and install Jenkins, Ansible and minikube.
+2. Add the SSH public key to the managed node and the private key to Jenkins as credential `ansible`.
+3. Confirm connectivity with `ansible all -m ping`.
+4. Create the Jenkins Pipeline job (three stages) and the GitHub webhook `http://<jenkins-public-ip>:8080/github-webhook/`.
+5. Push a commit to `main` and watch the build.
+
+**Repository structure**
 
 ```text
 Devops-automation-jenkins-ansible/
-├── README.md              # project documentation
-├── ec2.yml                # Ansible: security group + EC2 instance (amazon.aws)
-├── pod1.yml               # Ansible: two-container Kubernetes pod (k8s module)
-└── *.png                  # 12 screenshots (Jenkins, Ansible, kubectl, AWS console)
+├── README.md     # documentation
+├── ec2.yml       # security group + EC2 instance (amazon.aws)
+├── pod1.yml      # two-container Kubernetes pod (k8s module)
+└── *.png         # screenshots: Jenkins, Ansible, kubectl, AWS console
 ```
 
-</details>
+**Limitations and next steps**
 
-<details>
-<summary><b>Limitations and future improvements</b></summary>
-
-<br>
-
-- Security group in `ec2.yml` allows SSH from `0.0.0.0/0`. Next step: restrict it to a trusted CIDR.
-- `ec2.yml` targets `us-west-2` while the CI/CD servers run in `ap-south-1`. Next step: make region, AMI, key and subnet variables.
-- Pipeline scripts for this project are configured inside Jenkins. Next step: commit a `Jenkinsfile` (as done in project 2) so the pipeline itself is version-controlled.
-- The pod runs `sleep` placeholder containers. Next step: deploy a real application image with a Deployment and Service.
-- Next steps on my roadmap: Terraform for the AWS layer, Ansible roles and Vault, Prometheus and Grafana monitoring, HTTPS for Jenkins.
+- The security group allows SSH from `0.0.0.0/0`; restrict it to a trusted CIDR.
+- `ec2.yml` targets `us-west-2` while the servers run in `ap-south-1`; move region, AMI, key and subnet into variables.
+- Jenkins pipelines for this project are configured in the Jenkins UI; commit a `Jenkinsfile` as in project 2.
+- The pod runs `sleep` placeholder containers; replace with a real application and a Deployment.
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+### 2. Automated AWS EC2 Provisioning via Jenkins CI/CD
 
-### 2️⃣ Automated AWS EC2 Provisioning via Jenkins CI/CD
+**Repository:** [Jenkins-ansible-aws-ec2-provisioning](https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning)
 
-[![Repository](https://img.shields.io/badge/Repository-Jenkins--ansible--aws--ec2--provisioning-181717?style=flat-square&logo=github)](https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning)
+**Overview.** A GitHub push triggers the Jenkins job `Aws-project`. Its `Jenkinsfile`, stored in the repository, copies `ec2.yml` to an Ansible server and runs it to create a security group and an EC2 instance, with no AWS console steps.
 
-**Overview.** A GitHub push triggers the Jenkins job `Aws-project`. Its `Jenkinsfile` (stored in the repository) copies `ec2.yml` to an Ansible server and runs it, which creates a security group and an EC2 instance. No AWS console clicks are needed for provisioning.
+**Stack:** Jenkins · GitHub webhooks · Ansible (`amazon.aws`) · AWS EC2 · IAM role · Groovy · YAML · Ubuntu
 
-**Stack:** `Jenkins` `GitHub Webhooks` `Ansible` `amazon.aws` `AWS EC2` `AWS IAM role` `Groovy` `YAML` `Ubuntu`
+#### Infrastructure architecture and automation workflow
 
 ```mermaid
-flowchart LR
+flowchart TB
     GH["GitHub repository<br/>Jenkinsfile + ec2.yml"] -->|"webhook on push"| J["Jenkins<br/>job Aws-project"]
     J -->|"scp ec2.yml<br/>ssh via sshagent"| A["Ansible server<br/>ap-south-1"]
     A -->|"ansible-playbook ec2.yml"| API["AWS EC2 API"]
     API --> SG["Security group<br/>SSH port 22"]
     API --> EC2["EC2 instance<br/>t3.micro"]
+
+    classDef default fill:#0f2236,stroke:#38bdf8,color:#e2e8f0
+    classDef aws fill:#0f2236,stroke:#ff9900,color:#e2e8f0
+    class API,SG,EC2 aws
 ```
 
-#### Before vs after
+#### Before and after
 
 ```mermaid
 flowchart LR
     subgraph BEFORE["Before: manual"]
         direction TB
-        M1["Sign in to AWS console"] --> M2["Create security group"] --> M3["Choose AMI, type, key pair, subnet"] --> M4["Launch and verify by hand"]
+        M1["Sign in to AWS console"] --> M2["Create security group"] --> M3["Choose AMI, type, key, subnet"] --> M4["Launch and verify by hand"]
     end
     subgraph AFTER["After: pipeline"]
         direction TB
-        A1["git push"] --> A2["Webhook triggers Jenkins"] --> A3["Playbook copied to Ansible server"] --> A4["ec2.yml creates security group and instance"]
+        A1["git push"] --> A2["Webhook triggers Jenkins"] --> A3["Playbook copied to Ansible server"] --> A4["ec2.yml creates group and instance"]
     end
     BEFORE ==> AFTER
 ```
 
 | Topic | Detail |
 |---|---|
-| **Jenkins job** | `Aws-project`, Pipeline script from SCM (`Jenkinsfile`), 3 stages: `Github connect`, `ansible-server`, `ansible deploy` |
-| **Build history** | 6 builds: #1 failed, #2 to #6 successful (last build about 18 seconds) |
-| **GitHub webhook** | `/github-webhook/`, `application/json`, push event; GitHub shows "Last delivery was successful" |
-| **AWS IAM** | IAM role with EC2 permissions attached to the Ansible server, so no access keys are stored on it |
-| **EC2 provisioning** | `amazon.aws.ec2_group` then `amazon.aws.ec2_instance` (`wait: yes`), then a `debug` task prints the new instance ID and state |
-| **Validation** | `ansible -m ping` returns `pong`; Jenkins dashboard shows the job green; webhook delivery succeeded |
+| **Jenkins automation** | Job `Aws-project`, Pipeline script from SCM, stages `Github connect`, `ansible-server`, `ansible deploy` |
+| **GitHub webhook** | `/github-webhook/`, `application/json`, push event; GitHub reports a successful delivery |
+| **EC2 provisioning** | `ec2_group` creates the security group, `ec2_instance` launches the instance (`wait: yes`), a `debug` task prints the instance ID and state |
+| **IAM permissions** | An IAM role with EC2 permissions is attached to the Ansible server, so no access keys are stored on it |
+| **Execution and verification** | 6 builds: #1 failed, #2 to #6 successful (last build about 18 seconds); `ansible -m ping` returns `pong` |
 
 <details>
 <summary><b>Limitations of this lab setup</b></summary>
 
-<br>
-
-SSH open to `0.0.0.0/0` on the created security group · `StrictHostKeyChecking=no` in the pipeline · Jenkins on plain HTTP · playbook region (`us-west-2`) differs from the CI/CD servers (`ap-south-1`). Documented in the repository with the planned hardening steps.
+SSH is open to `0.0.0.0/0` on the created security group, the pipeline uses `StrictHostKeyChecking=no`, Jenkins runs on plain HTTP, and the playbook region (`us-west-2`) differs from the servers (`ap-south-1`). These are documented in the repository with planned hardening steps.
 
 </details>
 
-<a id="experience"></a>
-<img src="assets/sec-experience.svg" alt="Experience" width="100%" />
+## Experience
 
 | Role | Organisation | Period |
 |---|---|---|
-| **Associate, FTH** (Incident Response) | UnitedLex India, Gurugram | Jul 2026 |
-| **Market Research Associate Intern** | Precise Research Solutions, Gurugram | Jan 2025 – Jun 2025 |
-| **Backend Developer Intern** | Mentobile Technologies | Jul 2024 – Oct 2024 |
+| Associate, FTH (Incident Response) | UnitedLex India, Gurugram | Jul 2026 |
+| Market Research Associate Intern | Precise Research Solutions, Gurugram | Jan 2025 – Jun 2025 |
+| Backend Developer Intern | Mentobile Technologies | Jul 2024 – Oct 2024 |
 
-- **UnitedLex:** Investigated data breaches and classified PII/PHI in affected datasets using Relativity and Microsoft 365.
-- **Precise Research Solutions:** Cleaned and analysed structured datasets and produced decision-support reports for stakeholders.
-- **Mentobile Technologies:** Built backend modules in CodeIgniter (MVC), designed MySQL schemas and CRUD operations, and worked with Git branching, pull requests and code reviews.
+- **UnitedLex:** investigated data breaches and classified PII/PHI in affected datasets using Relativity and Microsoft 365.
+- **Precise Research Solutions:** cleaned and analysed structured datasets and produced decision-support reports.
+- **Mentobile Technologies:** built CodeIgniter (MVC) backend modules, designed MySQL schemas and CRUD operations, and worked with Git branching, pull requests and code reviews.
 
-<a id="education"></a>
-<img src="assets/sec-education.svg" alt="Education and Training" width="100%" />
+## Education and Training
 
-- 🎓 **B.Tech, Computer Science & Engineering**, GLA University, Mathura (2020 – 2024)
-- 🏅 **AWS & DevOps Infrastructure Training**, Croma Campus (NASSCOM-certified, Wipro Credential Partner), Sep 2025 – Mar 2026
-- 📚 Also completed: Web Development Bootcamp (JOVAC) · Front-End Development, HTML & CSS (Great Learning) · Course on Computer Concepts, CCC (NIELIT)
+- **B.Tech, Computer Science Engineering**, GLA University, Mathura (2020 – 2024)
+- **AWS & DevOps Infrastructure Training**, Croma Campus, NASSCOM-certified, Wipro Credential Partner (Sep 2025 – Mar 2026)
 
-<a id="analytics"></a>
-<img src="assets/sec-analytics.svg" alt="GitHub Analytics" width="100%" />
+## Learning Roadmap
 
-These cards are generated live from my public GitHub activity.
+Where I am heading next, building on the projects above:
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PushpenderKumar7505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderKumar7505&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+1. **Terraform and Infrastructure as Code:** define the AWS layer of my projects as code
+2. **Advanced Kubernetes:** move from a single pod to Deployments and Services
+3. **AWS cloud architecture:** deepen VPC, IAM and storage knowledge beyond EC2
+4. **Linux administration:** strengthen fundamentals behind every server I manage
+5. **Monitoring and observability:** Prometheus and Grafana for the pipelines I build
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PushpenderKumar7505&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PushpenderKumar7505&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=PushpenderKumar7505&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderKumar7505&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
 
-#### Repository highlights
+<img src="https://streak-stats.demolab.com?user=PushpenderKumar7505&theme=tokyonight&hide_border=true" width="100%" alt="Contribution streak" />
 
-<div align="center">
-  <a href="https://github.com/PushpenderKumar7505/Devops-automation-jenkins-ansible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderKumar7505&repo=Devops-automation-jenkins-ansible&theme=tokyonight&hide_border=true" alt="Devops-automation-jenkins-ansible" /></a>
-  <a href="https://github.com/PushpenderKumar7505/Jenkins-ansible-aws-ec2-provisioning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderKumar7505&repo=Jenkins-ansible-aws-ec2-provisioning&theme=tokyonight&hide_border=true" alt="Jenkins-ansible-aws-ec2-provisioning" /></a>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PushpenderKumar7505&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution graph" />
 
-<a id="contact"></a>
-<img src="assets/sec-contact.svg" alt="Contact" width="100%" />
+Repository highlights are the two featured projects above.
 
-I am looking for an entry-level **DevOps / AWS Cloud / Cloud Infrastructure** role where I can keep automating and documenting. Available to join immediately.
+## Contact
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://cloud-devops-shine.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:pushpender7505@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+I am open to entry-level roles as a **Junior DevOps Engineer**, **AWS Cloud Engineer**, **Cloud Infrastructure Engineer**, **Cloud Support Engineer** or **Junior SRE**, and I can join immediately.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:134e5e,50:0f2a3a,100:0b1220&section=footer" alt="" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushpender-kumar-5280b7226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PushpenderKumar7505"><img src="https://img.shields.io/badge/GitHub-PushpenderKumar7505-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://cloud-devops-shine.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2a3d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pushpender7505@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f2a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
